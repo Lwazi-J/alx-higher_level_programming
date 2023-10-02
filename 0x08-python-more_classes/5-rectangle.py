@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """Defines a Rectangle class."""
 
+
 class Rectangle:
     """Represent a rectangle."""
 
@@ -74,4 +75,3 @@ class Rectangle:
     def __del__(self):
         """Print a message for every deletion of a Rectangle."""
         print("Bye rectangle...")
-
